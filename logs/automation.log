@@ -1,0 +1,149 @@
+2025-02-05 18:02:28 DEBUG TestNG:82 - suiteXmlPath: "G:\selenium_workspace\BQA\MasterTestng.xml"
+2025-02-05 18:02:337 INFO  Utils:112 - [TestNG] Running:
+  G:\selenium_workspace\BQA\MasterTestng.xml
+
+2025-02-05 18:02:407 INFO  TestCase:17 - Test Execution Started
+2025-02-05 18:02:801 INFO  TestCase:20 - Language Changed
+2025-02-05 18:02:896 INFO  TestCase:25 - Iterating through Tables
+2025-02-05 18:02:06 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Amos_05022025061138.png
+2025-02-05 18:02:949 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\L'Ange-Gardien_05022025061141.png
+2025-02-05 18:02:611 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\La Sarre_05022025061144.png
+2025-02-05 18:02:302 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Richmond_05022025061146.png
+2025-02-05 18:02:36 DEBUG ZipPackage:548 - Save core properties part
+2025-02-05 18:02:36 DEBUG ZipPackage:570 - Save content types part
+2025-02-05 18:02:183 DEBUG ZipPackage:574 - Save package relationships
+2025-02-05 18:02:186 DEBUG ZipPackage:588 - Save part 'docProps/app.xml'
+2025-02-05 18:02:190 DEBUG ZipPackage:588 - Save part 'docProps/core.xml'
+2025-02-05 18:02:198 DEBUG ZipPackage:588 - Save part 'xl/sharedStrings.xml'
+2025-02-05 18:02:199 DEBUG ZipPackage:588 - Save part 'xl/styles.xml'
+2025-02-05 18:02:199 DEBUG ZipPackage:588 - Save part 'xl/workbook.xml'
+2025-02-05 18:02:201 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet1.xml'
+2025-02-05 18:02:202 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet2.xml'
+2025-02-05 18:02:202 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet3.xml'
+2025-02-05 18:02:203 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet4.xml'
+2025-02-05 18:02:207 DEBUG ZipPackage:570 - Save content types part
+2025-02-05 18:02:209 DEBUG ZipPackage:574 - Save package relationships
+2025-02-05 18:02:210 DEBUG ZipPackage:588 - Save part 'docProps/app.xml'
+2025-02-05 18:02:210 DEBUG ZipPackage:588 - Save part 'docProps/core.xml'
+2025-02-05 18:02:211 DEBUG ZipPackage:588 - Save part 'xl/sharedStrings.xml'
+2025-02-05 18:02:212 DEBUG ZipPackage:588 - Save part 'xl/styles.xml'
+2025-02-05 18:02:213 DEBUG ZipPackage:588 - Save part 'xl/workbook.xml'
+2025-02-05 18:02:214 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet1.xml'
+2025-02-05 18:02:215 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet2.xml'
+2025-02-05 18:02:216 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet3.xml'
+2025-02-05 18:02:216 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet4.xml'
+2025-02-05 18:02:217 INFO  TestCase:27 - Cpaturing Popup Tale Data
+2025-02-05 18:02:331 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\execution_05022025061219.png
+2025-02-05 18:02:244 DEBUG TestNG:82 - suiteXmlPath: "G:\selenium_workspace\BQA\MasterTestng.xml"
+2025-02-05 18:02:464 INFO  Utils:112 - [TestNG] Running:
+  G:\selenium_workspace\BQA\MasterTestng.xml
+
+2025-02-05 18:02:717 INFO  TestCase:17 - ****Test Execution Started****
+2025-02-05 18:02:224 INFO  TestCase:20 - ****Language Changed****
+2025-02-05 18:02:334 INFO  TestCase:25 - ****Iterating through Tables****
+2025-02-05 18:02:440 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Amos_05022025062413.png
+2025-02-05 18:02:01 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\L'Ange-Gardien_05022025062415.png
+2025-02-05 18:02:358 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\La Sarre_05022025062418.png
+2025-02-05 18:02:659 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Richmond_05022025062420.png
+2025-02-05 18:02:176 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Cap-Saint-Ignace_05022025062452.png
+2025-02-05 18:02:485 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Ferme-Neuve_05022025062455.png
+2025-02-05 18:02:773 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Notre-Dame-de-l'Île-Perrot_05022025062457.png
+2025-02-05 18:02:131 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Roxton Pond_05022025062459.png
+2025-02-05 18:02:655 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\La Pêche_05022025062532.png
+2025-02-05 18:02:221 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Piedmont_05022025062535.png
+2025-02-05 18:02:91 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Gaspé_05022025062607.png
+2025-02-05 18:02:892 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Montmagny_05022025062610.png
+2025-02-05 18:02:253 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Mont-Tremblant_05022025062613.png
+2025-02-05 18:02:542 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Régie intermunicipale de gestion des matières résiduellesAvignon-Bonaventure_05022025062615.png
+2025-02-05 18:02:543 WARN  XSSFWorkbook:955 - Sheet 'Régie intermunicipale de gestion des matières résiduellesAvignon-Bonaventure' will be added with a trimmed name 'Régie intermunicipale de gestio' for MS Excel compliance.
+2025-02-05 18:02:870 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Saint-Cyrille-de-Wendover_05022025062617.png
+2025-02-05 18:02:443 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\La Matapédia_05022025062650.png
+2025-02-05 18:02:115 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Malartic_05022025062652.png
+2025-02-05 18:02:541 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\Régie d'aqueduc intermunicipale des Moulins_05022025062655.png
+2025-02-05 18:02:542 WARN  XSSFWorkbook:955 - Sheet 'Régie d'aqueduc intermunicipale des Moulins' will be added with a trimmed name 'Régie d'aqueduc intermunicipale' for MS Excel compliance.
+2025-02-05 18:02:354 DEBUG ZipPackage:548 - Save core properties part
+2025-02-05 18:02:355 DEBUG ZipPackage:570 - Save content types part
+2025-02-05 18:02:529 DEBUG ZipPackage:574 - Save package relationships
+2025-02-05 18:02:535 DEBUG ZipPackage:588 - Save part 'docProps/app.xml'
+2025-02-05 18:02:539 DEBUG ZipPackage:588 - Save part 'docProps/core.xml'
+2025-02-05 18:02:550 DEBUG ZipPackage:588 - Save part 'xl/sharedStrings.xml'
+2025-02-05 18:02:550 DEBUG ZipPackage:588 - Save part 'xl/styles.xml'
+2025-02-05 18:02:551 DEBUG ZipPackage:588 - Save part 'xl/workbook.xml'
+2025-02-05 18:02:554 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet1.xml'
+2025-02-05 18:02:555 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet2.xml'
+2025-02-05 18:02:556 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet3.xml'
+2025-02-05 18:02:556 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet4.xml'
+2025-02-05 18:02:557 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet5.xml'
+2025-02-05 18:02:557 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet6.xml'
+2025-02-05 18:02:558 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet7.xml'
+2025-02-05 18:02:558 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet8.xml'
+2025-02-05 18:02:559 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet9.xml'
+2025-02-05 18:02:560 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet10.xml'
+2025-02-05 18:02:560 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet11.xml'
+2025-02-05 18:02:561 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet12.xml'
+2025-02-05 18:02:561 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet13.xml'
+2025-02-05 18:02:562 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet14.xml'
+2025-02-05 18:02:562 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet15.xml'
+2025-02-05 18:02:563 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet16.xml'
+2025-02-05 18:02:563 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet17.xml'
+2025-02-05 18:02:564 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet18.xml'
+2025-02-05 18:02:569 DEBUG ZipPackage:570 - Save content types part
+2025-02-05 18:02:572 DEBUG ZipPackage:574 - Save package relationships
+2025-02-05 18:02:574 DEBUG ZipPackage:588 - Save part 'docProps/app.xml'
+2025-02-05 18:02:574 DEBUG ZipPackage:588 - Save part 'docProps/core.xml'
+2025-02-05 18:02:575 DEBUG ZipPackage:588 - Save part 'xl/sharedStrings.xml'
+2025-02-05 18:02:576 DEBUG ZipPackage:588 - Save part 'xl/styles.xml'
+2025-02-05 18:02:576 DEBUG ZipPackage:588 - Save part 'xl/workbook.xml'
+2025-02-05 18:02:579 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet1.xml'
+2025-02-05 18:02:579 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet2.xml'
+2025-02-05 18:02:580 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet3.xml'
+2025-02-05 18:02:580 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet4.xml'
+2025-02-05 18:02:581 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet5.xml'
+2025-02-05 18:02:581 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet6.xml'
+2025-02-05 18:02:582 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet7.xml'
+2025-02-05 18:02:582 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet8.xml'
+2025-02-05 18:02:583 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet9.xml'
+2025-02-05 18:02:583 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet10.xml'
+2025-02-05 18:02:583 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet11.xml'
+2025-02-05 18:02:584 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet12.xml'
+2025-02-05 18:02:584 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet13.xml'
+2025-02-05 18:02:585 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet14.xml'
+2025-02-05 18:02:585 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet15.xml'
+2025-02-05 18:02:586 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet16.xml'
+2025-02-05 18:02:586 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet17.xml'
+2025-02-05 18:02:587 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet18.xml'
+2025-02-05 18:02:589 INFO  TestCase:27 - ****Cpaturing Popup Tale Data****
+2025-02-05 18:02:753 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\BQA\Screenshot\execution_05022025062727.png
+2025-02-07 12:02:258 DEBUG TestNG:82 - suiteXmlPath: "G:\selenium_workspace\Jaspreet_FinalProject\MasterTestng.xml"
+2025-02-07 12:02:580 INFO  Utils:112 - [TestNG] Running:
+  G:\selenium_workspace\Jaspreet_FinalProject\MasterTestng.xml
+
+2025-02-07 12:02:955 INFO  TestCase:17 - ****Test Execution Started****
+2025-02-07 12:02:539 INFO  TestCase:20 - ****Language Changed****
+2025-02-07 12:02:676 INFO  TestCase:25 - ****Iterating through Tables****
+2025-02-07 12:02:867 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\Jaspreet_FinalProject\Screenshot\Boischatel_07022025123834.png
+2025-02-07 12:02:599 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\Jaspreet_FinalProject\Screenshot\Sainte-Brigitte-de-Laval_07022025123837.png
+2025-02-07 12:02:108 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\Jaspreet_FinalProject\Screenshot\Saint-Philippe_07022025123839.png
+2025-02-07 12:02:858 DEBUG ZipPackage:548 - Save core properties part
+2025-02-07 12:02:858 DEBUG ZipPackage:570 - Save content types part
+2025-02-07 12:02:970 DEBUG ZipPackage:574 - Save package relationships
+2025-02-07 12:02:988 DEBUG ZipPackage:588 - Save part 'docProps/app.xml'
+2025-02-07 12:02:998 DEBUG ZipPackage:588 - Save part 'docProps/core.xml'
+2025-02-07 12:02:07 DEBUG ZipPackage:588 - Save part 'xl/sharedStrings.xml'
+2025-02-07 12:02:08 DEBUG ZipPackage:588 - Save part 'xl/styles.xml'
+2025-02-07 12:02:08 DEBUG ZipPackage:588 - Save part 'xl/workbook.xml'
+2025-02-07 12:02:11 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet1.xml'
+2025-02-07 12:02:12 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet2.xml'
+2025-02-07 12:02:13 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet3.xml'
+2025-02-07 12:02:17 DEBUG ZipPackage:570 - Save content types part
+2025-02-07 12:02:20 DEBUG ZipPackage:574 - Save package relationships
+2025-02-07 12:02:22 DEBUG ZipPackage:588 - Save part 'docProps/app.xml'
+2025-02-07 12:02:23 DEBUG ZipPackage:588 - Save part 'docProps/core.xml'
+2025-02-07 12:02:25 DEBUG ZipPackage:588 - Save part 'xl/sharedStrings.xml'
+2025-02-07 12:02:25 DEBUG ZipPackage:588 - Save part 'xl/styles.xml'
+2025-02-07 12:02:26 DEBUG ZipPackage:588 - Save part 'xl/workbook.xml'
+2025-02-07 12:02:28 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet1.xml'
+2025-02-07 12:02:28 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet2.xml'
+2025-02-07 12:02:29 DEBUG ZipPackage:588 - Save part 'xl/worksheets/sheet3.xml'
+2025-02-07 12:02:31 INFO  TestCase:27 - ****Cpaturing Popup Tale Data****
+2025-02-07 12:02:186 INFO  TestCase:65 - Screenshot saved: G:\selenium_workspace\Jaspreet_FinalProject\Screenshot\execution_07022025123912.png
