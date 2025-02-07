@@ -49,7 +49,7 @@ public class Quebec extends BaseClass{
 	public void extractTablesData() throws InterruptedException, IOException {
 		System.out.println("Total tables found: " + allTables.size());
 
-		for (int i = 2; i <= 2; i++) {
+		for (int i = 2; i <= 6; i++) {
 			WebElement currentTable = allTables.get(i);
 //			List<WebElement> tableRows = currentTable.findElements(	By.xpath("//div[@id='OBLIGATIONS']//div[@class='t-Region-body']//tbody[" + i + "]//tr"));
 			List<WebElement> tableRows = currentTable.findElements(	By.tagName("tr"));
